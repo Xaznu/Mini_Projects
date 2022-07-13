@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Program prosta kasa skle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Wyciąganie danych z listy", "5. Wyciąganie danych z listy\5. Wyciąganie danych z listy.csproj", "{4A0DBD15-4DA5-48A0-842C-A91158732CBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Książka telefoniczna", "6. Książka telefoniczna\6. Książka telefoniczna.csproj", "{07E69A03-54BF-41A4-9C89-B9E95DAED248}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4A0DBD15-4DA5-48A0-842C-A91158732CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A0DBD15-4DA5-48A0-842C-A91158732CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A0DBD15-4DA5-48A0-842C-A91158732CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E69A03-54BF-41A4-9C89-B9E95DAED248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E69A03-54BF-41A4-9C89-B9E95DAED248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E69A03-54BF-41A4-9C89-B9E95DAED248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E69A03-54BF-41A4-9C89-B9E95DAED248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
