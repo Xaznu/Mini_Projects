@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Książka telefoniczna",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Wyrażenie lambda", "7. Wyrażenie lambda\7. Wyrażenie lambda.csproj", "{A37C16FE-D274-4473-AF66-3ACD5F090FAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Algorytm Dijkistry na zdefiniowanej tablicy", "8. Algorytm Dijkistry na zdefiniowanej tablicy\8. Algorytm Dijkistry na zdefiniowanej tablicy.csproj", "{F7720F94-E112-496D-A014-E5A3B4FC7897}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A37C16FE-D274-4473-AF66-3ACD5F090FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A37C16FE-D274-4473-AF66-3ACD5F090FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A37C16FE-D274-4473-AF66-3ACD5F090FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7720F94-E112-496D-A014-E5A3B4FC7897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7720F94-E112-496D-A014-E5A3B4FC7897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7720F94-E112-496D-A014-E5A3B4FC7897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7720F94-E112-496D-A014-E5A3B4FC7897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
