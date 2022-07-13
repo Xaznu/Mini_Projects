@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Kalkulator", "1. Kalkula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Rysowanie tablicy na ekranie", "2. Rysowanie tablicy na ekranie\2. Rysowanie tablicy na ekranie.csproj", "{F4AEBD89-C6F6-41F1-96ED-85E480B3A523}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Program używający rekurencji", "3. Program używający rekurencji\3. Program używający rekurencji.csproj", "{ADB3219C-A43F-4A21-A549-E81C95836EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F4AEBD89-C6F6-41F1-96ED-85E480B3A523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4AEBD89-C6F6-41F1-96ED-85E480B3A523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4AEBD89-C6F6-41F1-96ED-85E480B3A523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB3219C-A43F-4A21-A549-E81C95836EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB3219C-A43F-4A21-A549-E81C95836EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB3219C-A43F-4A21-A549-E81C95836EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB3219C-A43F-4A21-A549-E81C95836EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
