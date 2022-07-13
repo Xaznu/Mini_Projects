@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Rysowanie tablicy na ekr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Program używający rekurencji", "3. Program używający rekurencji\3. Program używający rekurencji.csproj", "{ADB3219C-A43F-4A21-A549-E81C95836EBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Program prosta kasa sklepowa", "4. Program prosta kasa sklepowa\4. Program prosta kasa sklepowa.csproj", "{51EBBFED-3F0B-4C7D-9906-E1FA55837F4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ADB3219C-A43F-4A21-A549-E81C95836EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADB3219C-A43F-4A21-A549-E81C95836EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADB3219C-A43F-4A21-A549-E81C95836EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EBBFED-3F0B-4C7D-9906-E1FA55837F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EBBFED-3F0B-4C7D-9906-E1FA55837F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EBBFED-3F0B-4C7D-9906-E1FA55837F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EBBFED-3F0B-4C7D-9906-E1FA55837F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
