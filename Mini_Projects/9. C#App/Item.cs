@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Warehouse
 {
-    public enum ItemTypes
+    public class Item
     {
-        Grocery,
-        Clothing,
-        Electronics
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }

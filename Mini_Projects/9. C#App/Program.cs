@@ -15,20 +15,48 @@ namespace Warehouse
             Console.WriteLine("3. Check Item");
             Console.WriteLine("Press 1, 2, 3...");
 
-            string choice = Console.ReadLine();
-            
-            Console.WriteLine($"You have chosen option number: {choice}");
+            string operation = Console.ReadLine();
 
-            //Zmienna
-            int chosenOption = 0;
+            Console.WriteLine($"You have chosen option {operation}");
 
-            Int32.TryParse(choice, out chosenOption);
+            int chosenOperation = 0;
 
-            Console.WriteLine("Please choose another option...");
+            Int32.TryParse(operation, out chosenOperation);
 
-            choice = Console.ReadLine();
+            Console.WriteLine("Select item category");
+            Console.WriteLine("1. Grocery");
+            Console.WriteLine("2. Clothing");
+            Console.WriteLine("3. Electronics");
 
-            Int32.TryParse(choice, out chosenOption);
+            string category = Console.ReadLine();
+
+            ItemTypes chosenCategory;
+
+            Enum.TryParse(category, out chosenCategory);
+
+
+            int a = 5;
+            int b = a;
+
+            Console.WriteLine(a); //5
+            Console.WriteLine(b); //5
+
+            b = 50;
+
+            Console.WriteLine(a); //5
+            Console.WriteLine(b); //50
+
+            Item item = new Item() { Id = 1, Name = "Apple" };
+            Item item2 = item;
+
+            Console.WriteLine(item.Name); //Apple
+            Console.WriteLine(item2.Name); //Apple
+
+            item2.Name = "Watermelon";
+
+            Console.WriteLine(item.Name); //Apple
+            Console.WriteLine(item2.Name); //Watermelon
+
         }
     }
 }

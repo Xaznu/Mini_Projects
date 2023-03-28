@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Wyrażenie lambda", "7. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Algorytm Dijkistry na zdefiniowanej tablicy", "8. Algorytm Dijkistry na zdefiniowanej tablicy\8. Algorytm Dijkistry na zdefiniowanej tablicy.csproj", "{F7720F94-E112-496D-A014-E5A3B4FC7897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. C#App", "9. C#App\9. C#App.csproj", "{AF902E44-D72F-4B7B-A930-27D6C0E4EAD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warehouse", "9. C#App\Warehouse.csproj", "{AF902E44-D72F-4B7B-A930-27D6C0E4EAD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
